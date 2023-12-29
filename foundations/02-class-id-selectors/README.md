@@ -26,3 +26,4 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
   solved in the first attempt
 - Does the Number 3 element have multiple classes?
   put an extra id attribute
+  put one more class now..no change in result
